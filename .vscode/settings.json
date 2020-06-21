@@ -1,3 +1,7 @@
 {
+<<<<<<< HEAD
     "python.pythonPath": "/home/alex/anaconda3/envs/PyGame/bin/python"
+=======
+    "python.pythonPath": "C:\\Users\\alexp\\Anaconda3\\python.exe"
+>>>>>>> 5141408209b0e9784256a8e9e1ec06a0e3d543c4
 }
